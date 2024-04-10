@@ -1,0 +1,5 @@
+
+pool: devops mac
+
+steps:
+- script: echo Hello, world!
